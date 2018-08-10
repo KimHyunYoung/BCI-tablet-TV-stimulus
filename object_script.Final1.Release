@@ -1,0 +1,17 @@
+INPUT(
+./release\main.o
+./release\mainwindow.o
+./release\tvwindow.o
+./release\on_off.o
+./release\doorlock.o
+./release\doorlockwindow.o
+./release\lightwindow.o
+./release\light.o
+./release\moc_mainwindow.o
+./release\moc_tvwindow.o
+./release\moc_on_off.o
+./release\moc_doorlock.o
+./release\moc_doorlockwindow.o
+./release\moc_lightwindow.o
+./release\moc_light.o
+);

@@ -1,0 +1,17 @@
+INPUT(
+./debug\main.o
+./debug\mainwindow.o
+./debug\tvwindow.o
+./debug\on_off.o
+./debug\doorlock.o
+./debug\doorlockwindow.o
+./debug\lightwindow.o
+./debug\light.o
+./debug\moc_mainwindow.o
+./debug\moc_tvwindow.o
+./debug\moc_on_off.o
+./debug\moc_doorlock.o
+./debug\moc_doorlockwindow.o
+./debug\moc_lightwindow.o
+./debug\moc_light.o
+);
